@@ -1,0 +1,10 @@
+{
+  "GET /session": "开始只读revision会话",
+  "GET /points": "revision=r1&bbox=x0,y0,x1,y1&time=t0,t1，最多3项，count是截断前数量",
+  "coordinate": "整数坐标闭区间；整数逻辑时间左闭右开",
+  "phases": [
+    "base",
+    "expired"
+  ],
+  "control_state": "generation加一会使旧revision失效"
+}

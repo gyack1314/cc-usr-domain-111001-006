@@ -1,0 +1,65 @@
+[
+  {
+    "source_id": "p0",
+    "updated_at": 2,
+    "x": 1,
+    "y": 1,
+    "name": "合成演练点0"
+  },
+  {
+    "source_id": "p1",
+    "updated_at": 2,
+    "x": 1,
+    "y": 1,
+    "name": "合成演练点1"
+  },
+  {
+    "source_id": "p2",
+    "updated_at": 2,
+    "x": 1,
+    "y": 1,
+    "name": "合成演练点2"
+  },
+  {
+    "source_id": "p3",
+    "updated_at": 2,
+    "x": 1,
+    "y": 1,
+    "name": "合成演练点3"
+  },
+  {
+    "source_id": "p4",
+    "updated_at": 2,
+    "x": 1,
+    "y": 1,
+    "name": "合成演练点4"
+  },
+  {
+    "source_id": "p5",
+    "updated_at": 3,
+    "x": 2,
+    "y": 2,
+    "name": "合成演练点5"
+  },
+  {
+    "source_id": "p6",
+    "updated_at": 3,
+    "x": 3,
+    "y": 0,
+    "name": "合成演练点6"
+  },
+  {
+    "source_id": "p7",
+    "updated_at": 3,
+    "x": 4,
+    "y": 1,
+    "name": "合成演练点7"
+  },
+  {
+    "source_id": "p8",
+    "updated_at": 3,
+    "x": 5,
+    "y": 2,
+    "name": "合成演练点8"
+  }
+]
